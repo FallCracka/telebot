@@ -1,5 +1,5 @@
-# telebot-with-google-table
-***Телеграм бот связанный с google таблицами***
+# telebot
+***Книжный телеграм бот ***
 ## Python ##
 
 ## Pycharm ##
